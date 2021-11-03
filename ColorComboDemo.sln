@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ColorComboDemo", "ColorComboDemo.vbproj", "{30E86EBE-00E2-47D7-BDF8-2958ACF94A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E86EBE-00E2-47D7-BDF8-2958ACF94A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E86EBE-00E2-47D7-BDF8-2958ACF94A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E86EBE-00E2-47D7-BDF8-2958ACF94A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E86EBE-00E2-47D7-BDF8-2958ACF94A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8972C910-5834-4725-984E-7C909FD017FD}
+	EndGlobalSection
+EndGlobal
